@@ -28,3 +28,9 @@
 npm-debug.log
 yarn-error.log
 ###< symfony/webpack-encore-bundle ###
+
+###> custom ###
+composer.json
+composer.lock
+symfony.lock
+###< custom ###
